@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-any-in-by/tags). For example,
+
+```javascript
 import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@v0.1.0-deno/mod.js';
 ```
 
@@ -164,7 +169,7 @@ var mean = context.sum / context.count;
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@v0.1.0-deno/mod.js';
+import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@deno/mod.js';
 
 function threshold( value ) {
     return ( value > 0.95 );
