@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@esm/index.mjs';
+import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@v0.1.0-esm/index.mjs';
 ```
 
 #### anyInBy( object, predicate\[, thisArg ] )
@@ -169,7 +169,7 @@ var mean = context.sum / context.count;
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@esm/index.mjs';
+import anyInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-any-in-by@v0.1.0-esm/index.mjs';
 
 function threshold( value ) {
     return ( value > 0.95 );
