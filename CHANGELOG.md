@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-01)
+## Unreleased (2024-07-07)
 
 <section class="commits">
 
@@ -12,7 +12,55 @@
 
 <details>
 
--   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
+-   [`a78f7d1`](https://github.com/stdlib-js/stdlib/commit/a78f7d1b859b6b1d7b0bc0ee4daf76789e3e0910) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`326479a`](https://github.com/stdlib-js/stdlib/commit/326479a0533ad89929eac59ad1b122cd8cd9cc5f) - **refactor:** update `blas/ext/base/snansumors` to follow current project conventions _(by Pratik, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Pratik
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2024-04-13)
+
+<section class="features">
+
+### Features
+
+-   [`69c167d`](https://github.com/stdlib-js/stdlib/commit/69c167d7b5ad978f4e5507a48a8f8dc525464da5) - add `utils/any-in-by`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8a88ec1`](https://github.com/stdlib-js/stdlib/commit/8a88ec1f450ddc7cc4e9004f94299fe864bf7acb) - **docs:** update related packages sections [(#2006)](https://github.com/stdlib-js/stdlib/pull/2006) _(by stdlib-bot)_
+-   [`d40dbaf`](https://github.com/stdlib-js/stdlib/commit/d40dbafc25e3e10c8fa83f5b4203db97c289823c) - **chore:** update package meta data [(##1812)](#1812) _(by stdlib-bot)_
+-   [`69c167d`](https://github.com/stdlib-js/stdlib/commit/69c167d7b5ad978f4e5507a48a8f8dc525464da5) - **feat:** add `utils/any-in-by` _(by Priyansh)_
 
 </details>
 
@@ -26,7 +74,7 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Athan Reines
+-   Priyansh
 
 </section>
 
